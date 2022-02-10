@@ -23,6 +23,6 @@
 
 ### Day 4: February 10, 2022 
 
-**Today's Progress**: Got GOLDEN BADGE for Python for Hackerrank (https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types&utm_campaign=social-dialog&utm_medium=twitter&utm_source=chapter_completed) 
+**Today's Progress**: Got GOLDEN BADGE for Python on Hackerrank (https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types&utm_campaign=social-dialog&utm_medium=twitter&utm_source=chapter_completed) 
 
 **Thoughts**: Amigos! Really happy to learn such cool stuffs. Just trying to make my Git Canvas🤩.
