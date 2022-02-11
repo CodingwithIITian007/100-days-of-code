@@ -25,4 +25,29 @@
 
 **Today's Progress**: Got GOLDEN BADGE for Python on Hackerrank (https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types&utm_campaign=social-dialog&utm_medium=twitter&utm_source=chapter_completed) 
 
-**Thoughts**: Amigos! Really happy to learn such cool stuffs. Just trying to make my Git Canvas🤩.
+**Thoughts**: Amigos! Really happy to learn such cool stuffs. Just trying to make my Git Canvas🤩. 
+
+
+### Day 5: February 11, 2022 
+
+**Today's Progress**: Practised some advance level of programming questions for Python on Hackerrank (https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true)
+
+**Thoughts**: It's taking longer to solve this but just made some brushing up my brain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
