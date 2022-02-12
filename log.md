@@ -35,6 +35,13 @@
 **Thoughts**: It's taking longer to solve this but just made some brushing up my brain.
 
 
+### Day 6: February 12, 2022 
+
+**Today's Progress**: Today it's warm up only for Algorithms on Hackerrank (https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) 
+
+**Thoughts**: It's nothing new for today. A Pretty average day for DSA.
+
+
 
 
 
