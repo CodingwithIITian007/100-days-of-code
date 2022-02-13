@@ -42,6 +42,12 @@
 **Thoughts**: It's nothing new for today. A Pretty average day for DSA.
 
 
+### Day 7: February 13, 2022 
+
+**Today's Progress**: Today it's sorting only for Algorithms on Hackerrank (https://www.hackerrank.com/challenges/tutorial-intro/problem?isFullScreen=true)
+
+**Thoughts**: It's nothing new for today. A Pretty average day for DSA.
+
 
 
 
