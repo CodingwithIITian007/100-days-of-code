@@ -46,7 +46,22 @@
 
 **Today's Progress**: Today it's sorting only for Algorithms on Hackerrank (https://www.hackerrank.com/challenges/tutorial-intro/problem?isFullScreen=true)
 
-**Thoughts**: It's nothing new for today. A Pretty average day for DSA.
+**Thoughts**: It's nothing new for today. A Pretty average day for DSA. 
+
+
+### Day 8: February 14, 2022 
+
+**Today's Progress**: Freshened up my brain with some Algorithmic problems on Hackerrank (https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=2&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: It's too much late to make edits, but i managed.
+
+
+### Day 9: February 15, 2022 
+
+**Today's Progress**: Just solved all Warmup challenges in Algorithms on HackerRank. Try it out! (https://hr.gs/1v59) & Just earned the Silver Badge for Problem Solving on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=3&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: Overall it's great to learn some new coding stuffs.
+
 
 
 
