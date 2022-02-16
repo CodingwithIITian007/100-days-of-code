@@ -60,7 +60,14 @@
 
 **Today's Progress**: Just solved all Warmup challenges in Algorithms on HackerRank. Try it out! (https://hr.gs/1v59) & Just earned the Silver Badge for Problem Solving on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=3&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: Overall it's great to learn some new coding stuffs.
+**Thoughts**: Overall it's great to learn some new coding stuffs. 
+
+
+###Day 10: February 16, 2022 
+
+**Today's Progress**: Just earned my 4th star on the Java Badge on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=java&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: It's a JAVA Day at all.
 
 
 
