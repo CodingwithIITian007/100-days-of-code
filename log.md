@@ -67,7 +67,7 @@
 
 **Today's Progress**: Just earned my 4th star on the Java Badge on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=java&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: It's a JAVA Day at all.
+**Thoughts**: It's a JAVA PROGRAMMING Day at all.
 
 
 
