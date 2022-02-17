@@ -70,6 +70,13 @@
 **Thoughts**: It's a JAVA PROGRAMMING Day at all.
 
 
+### Day 11, February 17, 2022
+
+**Today's Progress**: <p>It's a day <em>dedicatedly</em> only for <em>HTML</em>.<br>.<p><a href="https://codepen.io/codingwithiitian007/pen/QWOabJp">HTML Worksheet </a></p>.
+
+**Thoughts**: In process-I of being a WebDeveloper.
+
+
 
 
 
