@@ -70,11 +70,18 @@
 **Thoughts**: It's a JAVA PROGRAMMING Day at all.
 
 
-### Day 11, February 17, 2022
+### Day 11: February 17, 2022
 
 **Today's Progress**: <p>It's a day <em>dedicatedly</em> only for <em>HTML</em>.<br>.<p><a href="https://codepen.io/codingwithiitian007/pen/QWOabJp">HTML Worksheet </a></p>.
 
-**Thoughts**: In process-I of being a WebDeveloper.
+**Thoughts**: In process-I of being a WebDeveloper. 
+
+
+### Day 12, February 18, 2022
+
+**Today's Progress**: Just earned the Gold Badge for Java on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=java&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: It's becoming a daily habit to spend time on programming.
 
 
 
