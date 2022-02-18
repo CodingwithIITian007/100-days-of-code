@@ -77,7 +77,7 @@
 **Thoughts**: In process-I of being a WebDeveloper. 
 
 
-### Day 12, February 18, 2022
+### Day 12: February 18, 2022
 
 **Today's Progress**: Just earned the Gold Badge for Java on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=java&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
