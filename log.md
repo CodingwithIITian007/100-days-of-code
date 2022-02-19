@@ -81,7 +81,16 @@
 
 **Today's Progress**: Just earned the Gold Badge for Java on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=java&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: It's becoming a daily habit to spend time on programming.
+**Thoughts**: It's becoming a daily habit to spend time on programming. 
+
+
+### Day 13: February 19, 2022
+
+**Today's Progress**: Just brushing up some cool CSS stuffs! (https://www.w3schools.com/css/exercise.asp?filename=exercise_table2)
+
+**Thoughts**: Really it's great to apply such cool CSS stuffs on https://mountexplorer850.w3spaces.com (My own travel site blog).
+
+
 
 
 
