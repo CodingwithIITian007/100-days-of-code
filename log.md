@@ -88,7 +88,14 @@
 
 **Today's Progress**: Just brushing up some cool CSS stuffs! (https://www.w3schools.com/css/exercise.asp?filename=exercise_table2)
 
-**Thoughts**: Really it's great to apply such cool CSS stuffs on https://mountexplorer850.w3spaces.com (My own travel site blog).
+**Thoughts**: Really it's great to apply such cool CSS stuffs on https://mountexplorer850.w3spaces.com (My own travel site blog). 
+
+
+### Day 14: February 20, 2022 
+
+**Today's Progress**: Success! Just solved Apple and Orange on HackerRank. Can you complete the challenge? (https://hr.gs/1dqe)
+
+**Thoughts**: And make some analyse on CSS tools (https://www.w3schools.com/css/default.asp). That's all for today.
 
 
 
