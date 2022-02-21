@@ -98,6 +98,15 @@
 **Thoughts**: And make some analyse on CSS tools (https://www.w3schools.com/css/default.asp). That's all for today.
 
 
+### Day 15: February 21, 2022 
+
+**Today's Progress**: Success! Just solved Ashton and String on HackerRank. Can you complete the challenge? (https://hr.gs/e1t)
+Success! Just solved Circular Palindromes on HackerRank. Can you complete the challenge? (https://hr.gs/eo0) 
+Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: A programmer doesn't need time machine.
+
+
 
 
 
