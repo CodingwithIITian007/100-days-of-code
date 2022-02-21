@@ -104,7 +104,7 @@
 Success! Just solved Circular Palindromes on HackerRank. Can you complete the challenge? (https://hr.gs/eo0) 
 Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: A programmer doesn't need time machine.
+**Thoughts**: Still a newbie👨🏻‍💻.
 
 
 
