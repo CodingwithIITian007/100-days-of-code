@@ -104,7 +104,12 @@
 Success! Just solved Circular Palindromes on HackerRank. Can you complete the challenge? (https://hr.gs/eo0) 
 Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: Still a newbie👨🏻‍💻.
+**Thoughts**: Still a newbie👨🏻‍💻. 
+
+
+### Day 16: February 22, 2022
+
+**Today's Progress**: <worksheet1_220222_224958.pdf>
 
 
 
