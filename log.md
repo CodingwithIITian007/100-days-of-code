@@ -109,7 +109,9 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 ### Day 16: February 22, 2022
 
-**Today's Progress**: <worksheet1_220222_224958.pdf>
+**Today's Progress**: Just have revised some basics of DSA, Python, Sorting etc (https://drive.google.com/file/d/1VVA82KoH_CFxlCRs5VrVzTICDSqITXKt/view?usp=drivesdk…).
+
+**Thoughts**: Diving into the sea of DSA. Don’t get time to revise #webdev.
 
 
 
