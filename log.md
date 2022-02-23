@@ -114,6 +114,12 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Thoughts**: Diving into the sea of DSA. Don’t get time to revise #webdev.
 
 
+### Day 17: February 23, 2022
+
+**Today's Progress**: Success! Just solved Palindromic Border on HackerRank. Can you complete the challenge? (https://hr.gs/fhf)
+
+**Thoughts**: Solved an expert level question on DSA.
+
 
 
 
