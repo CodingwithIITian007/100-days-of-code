@@ -121,6 +121,13 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Thoughts**: Solved an expert level question on DSA.
 
 
+### Day 18: February 24, 2022
+
+**Today's Progress**: Just earned the Gold Badge for Problem Solving on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin) 
+
+**Thoughts**: It's really the "Day of the Programmer".
+
+
 
 
 
