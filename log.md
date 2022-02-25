@@ -130,7 +130,7 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 ### Day 19: February 25, 2022
 
-**Today's Progress**: Success! Just solved Cards Permutation(https://hr.gs/dsy6 #programming) & Determinig DNA Health(https://www.hackerrank.com/challenges/determining-dna-health/problem?isFullScreen=true) on HackerRank. Can you complete the challenge ?
+**Today's Progress**: Success! Just solved Cards Permutation(https://hr.gs/dsy6) & Determinig DNA Health(https://www.hackerrank.com/challenges/determining-dna-health/problem?isFullScreen=true) on HackerRank. Can you complete the challenge ?
 
 **Thoughts**: Isn't our whole life an assemble of programs of DSA ?
 
