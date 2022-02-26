@@ -135,6 +135,13 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Thoughts**: Isn't our whole life an assemble of programs of DSA ?
 
 
+### Day 20: February 26, 2022
+
+**Today's Progress**: Success! Just solved Build a Palindrome on HackerRank. Can you complete the challenge? (https://hr.gs/bdfefa)
+
+**Thoughts**: Though it's a hectic schedule, still manage to solve an expert levelled question.
+
+
 
 
 
