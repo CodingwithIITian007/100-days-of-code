@@ -139,7 +139,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Build a Palindrome on HackerRank. Can you complete the challenge? (https://hr.gs/bdfefa)
 
-**Thoughts**: Though it's a hectic schedule, still manage to solve an expert levelled question.
+**Thoughts**: Though it's a hectic schedule, still manage to solve an expert levelled question. 
+
+
+### Day 21: February 27, 2022
+
+**Today's Progress**: Success! Just solved Count Strings on @HackerRank. Can you complete the challenge? (https://hr.gs/befbad)
+
+**Thoughts**: It's just feeling like a Codebrewer.
 
 
 
