@@ -153,7 +153,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved String Function Calculation (https://hr.gs/ffffab) & Similar Strings on Hackerrank (https://hr.gs/1a30).
 
-**Thoughts**: Happy to brew the String functions.
+**Thoughts**: Happy to brew the String functions. 
+
+
+### Day 23: March 01, 2022 
+
+**Today's Progress**: Success! Just solved Build a String on HackerRank. Can you complete the challenge? (https://hr.gs/bdcaad)
+
+**Thoughts**: It's MahaCodeCamp.
 
 
 
