@@ -160,7 +160,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Build a String on HackerRank. Can you complete the challenge? (https://hr.gs/bdcaad)
 
-**Thoughts**: It's MahaCodeCamp.
+**Thoughts**: It's MahaCodeRatri. 
+
+
+### Day 24: March 02, 2022 
+
+**Today's Progress**: Success! Just solved Matrix Layer Rotation on HackerRank. Can you complete the challenge? (https://hr.gs/bebfec) 
+
+**Thoughts**: Just solved a hard question throughout a day.
 
 
 
