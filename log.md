@@ -167,7 +167,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Matrix Layer Rotation on HackerRank. Can you complete the challenge? (https://hr.gs/bebfec) 
 
-**Thoughts**: Just solved a hard question throughout a day.
+**Thoughts**: Just solved a hard question throughout a day. 
+
+
+### Day 25: March 03, 2022
+
+**Today's Progress**: Just have done some CSS cools (https://codepen.io/codingwithiitian007/pen/QWOabJp).
+
+**Thoughts**: It's great to learn such cool stuffs.
 
 
 
