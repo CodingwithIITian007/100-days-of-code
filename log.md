@@ -174,7 +174,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Just have done some CSS cools (https://codepen.io/codingwithiitian007/pen/QWOabJp).
 
-**Thoughts**: It's great to learn such cool stuffs.
+**Thoughts**: It's great to learn such cool stuffs. 
+
+
+### Day 26: March 04, 2022
+
+**Today's Progress**: Success! Just solved Super Functional Strings on HackerRank. Can you complete the challenge? (https://hr.gs/1il9)
+
+**Thought**: Started solving C++ problems.
 
 
 
