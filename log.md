@@ -181,7 +181,7 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Super Functional Strings on HackerRank. Can you complete the challenge? (https://hr.gs/1il9)
 
-**Thought**: Started solving C++ problems.
+**Thoughts**: Started solving C++ problems.
 
 
 
