@@ -181,7 +181,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Super Functional Strings on HackerRank. Can you complete the challenge? (https://hr.gs/1il9)
 
-**Thoughts**: Started solving C++ problems.
+**Thoughts**: Started solving C++ problems. 
+
+
+### Day 27: March 05, 2022
+
+**Today's Progress**: Success! Just solved Two Two (https://hr.gs/eqe) & Two Strings Game (https://hr.gs/f9r) on Hackerrank. 
+
+**Thoughts**: Programming melts the code.
 
 
 
