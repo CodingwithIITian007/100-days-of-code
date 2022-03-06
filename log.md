@@ -191,8 +191,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Thoughts**: Programming melts the code.
 
 
+### Day 28: March 06, 2022
 
+**Today's Progress**:Success! Just solved Gridland Provinces (https://hr.gs/fbbdee) & How Many Substrings? (https://hr.gs/1zb1) on Hackerrank.
 
+**Thoughts**: A newbie who's just brewing DSA.
 
 
 
