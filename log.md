@@ -195,7 +195,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Gridland Provinces (https://hr.gs/fbbdee) & How Many Substrings? (https://hr.gs/1zb1) on Hackerrank.
 
-**Thoughts**: A Codebie who's just brewing DSA.
+**Thoughts**: A Codebie who's just brewing DSA. 
+
+
+### Day 29: March 07, 2022
+
+**Today's Progress**: Just earned my 6th star on the Problem Solving Badge on HackerRank!(https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=6&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: Just brewing code like my red wine.
 
 
 
