@@ -202,7 +202,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Just earned my 6th star on the Problem Solving Badge on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=problem-solving&stars=6&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: Just brewing code like my red wine.
+**Thoughts**: Just brewing code like my red wine. 
+
+
+### Day 30: March 08, 2022 
+
+**Today's Progress**: Just earned my 2nd star on the C++ Badge on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=cpp&stars=2&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin) 
+
+**Thoughts**: Becoming codefreaks day by day. 
 
 
 
