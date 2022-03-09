@@ -216,7 +216,7 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Just earned the Gold Badge for C++ on HackerRank! (https://www.hackerrank.com/kanadtheiitian?badge=cpp&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: Brewing rawcodes is going to make a daily habits.
+**Thoughts**: Brewing rawcodes is going to make a daily habit.
 
 
 
