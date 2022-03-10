@@ -221,7 +221,7 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 ### Day 32: March 10, 2022
 
-**Today's Progress**: Started to drill AI Challenges BOT SAVES QUEEN (https://www.hackerrank.com/challenges/saveprincess/forum)etc on Hackerrank.
+**Today's Progress**: Started to drill AI Challenges BOT SAVES QUEEN (https://www.hackerrank.com/challenges/saveprincess/forum) etc on Hackerrank.
 
 **Thoughts**: & it's not gonna be easy-peasy at all.
 
