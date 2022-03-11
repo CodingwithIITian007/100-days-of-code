@@ -223,7 +223,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Started to drill AI Challenges BOT SAVES QUEEN (https://www.hackerrank.com/challenges/saveprincess/forum) etc on Hackerrank.
 
-**Thoughts**: & it's not gonna be easy-peasy at all.
+**Thoughts**: & it's not gonna be easy-peasy at all. 
+
+
+### Day 33: March 11, 2022
+
+**Today's Progress**: Success! Just solved Laptop Battery Life (https://hr.gs/aaddcf) & BotClean (https://www.hackerrank.com/challenges/botclean/submissions/game/260399088) on Hackerrank.
+
+**Thoughts**: AI can clear out all trashes from head.
 
 
 
