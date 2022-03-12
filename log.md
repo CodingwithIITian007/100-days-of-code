@@ -230,11 +230,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Laptop Battery Life (https://hr.gs/aaddcf) & BotClean (https://www.hackerrank.com/challenges/botclean/submissions/game/260399088) on Hackerrank.
 
-**Thoughts**: AI can clear out all trashes from head.
+**Thoughts**: AI can clear out all trashes from head. 
 
 
+### Day 34: March 12, 2022 
 
+**Today's Progress**: Solved BotClean Stochastic on Hackerrank (https://www.hackerrank.com/challenges/botcleanr?isFullScreen=true&hr_b=1).
 
+**Thoughts**: & realized it's AI buddy !
 
 
 
