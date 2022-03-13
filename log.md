@@ -237,7 +237,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Solved BotClean Stochastic on Hackerrank (https://www.hackerrank.com/challenges/botcleanr?isFullScreen=true&hr_b=1).
 
-**Thoughts**: & realized it's AI buddy !
+**Thoughts**: & realized it's AI buddy ! 
+
+
+### Day 35: March 13, 2022
+
+**Today's Progress**: Solved Lights Out on Hackerrank (https://www.hackerrank.com/challenges/lightsout/submissions/game/260659723).
+
+**Thoughts**: AI doesn't make you feel boring.
 
 
 
