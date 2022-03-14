@@ -244,7 +244,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Solved Lights Out on Hackerrank (https://www.hackerrank.com/challenges/lightsout/submissions/game/260659723).
 
-**Thoughts**: AI doesn't make you feel boring.
+**Thoughts**: AI doesn't make you feel boring. 
+
+
+### Day 36: March 14, 2022
+
+**Today's Progress**: Success! Just solved Coprime Paths on HackerRank. Can you complete the challenge? (https://hr.gs/dcccfd) 
+
+**Thoughs**: Just got to check on DSA Problems solving.
 
 
 
