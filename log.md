@@ -251,14 +251,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Coprime Paths on HackerRank. Can you complete the challenge? (https://hr.gs/dcccfd) 
 
-**Thoughs**: Just got to check on DSA Problems solving.
+**Thoughts**: Just got to check on DSA Problems solving.
 
 
 ### Day 37: March 15, 2022
 
 **Today's Progress**: Success! Just solved The Longest Increasing Subsequence on HackerRank. Can you complete the challenge? (https://hr.gs/feeffd)
 
-**Thoughs**: Just solved an advanced DP question.
+**Thoughts**: Just solved an advanced DP question.
 
 
 
