@@ -258,7 +258,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved The Longest Increasing Subsequence on HackerRank. Can you complete the challenge? (https://hr.gs/feeffd)
 
-**Thoughts**: Just solved an advanced DP question.
+**Thoughts**: Just solved an advanced DP question. 
+
+
+### Day 38: March 16, 2022
+
+**Today's Progress**: Success! Just solved Real Estate Broker on HackerRank. Can you complete the challenge? (https://hr.gs/bbfabe)
+
+**Thoughts**: It's so much late, still it's what it's.
 
 
 
