@@ -265,7 +265,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Real Estate Broker on HackerRank. Can you complete the challenge? (https://hr.gs/bbfabe)
 
-**Thoughts**: It's so much late, still it's what it's.
+**Thoughts**: It's so much late, still it's what it's. 
+
+
+### Day 39: March 17, 2022
+
+**Today's Progress**: Success! Just solved Almost Integer Rock Garden on HackerRank. Can you complete the challenge? (https://hr.gs/2yt0) 
+
+**Thoughts**: Still am in amateur level.
 
 
 
