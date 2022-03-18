@@ -272,7 +272,14 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Almost Integer Rock Garden on HackerRank. Can you complete the challenge? (https://hr.gs/2yt0) 
 
-**Thoughts**: Still am in amateur level.
+**Thoughts**: Still am in amateur level. 
+
+
+### Day 40: March 18, 2022
+
+**Today's Progress**: Success! Just solved Alien Languages on HackerRank. Can you complete the challenge? (https://hr.gs/afefbe) 
+
+**Thoughts**: It's ok only when you got to know Alien's Languages lol!
 
 
 
