@@ -289,6 +289,12 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Thoughts**: Was busy a lot to post this.
 
 
+### Day 42: March 20, 2022
+
+**Today's Progress**: Success! Just solved Absolute Element Sums on HackerRank. Can you complete the challenge? (https://hr.gs/baebed)
+
+**Thoughts**: Solving DSA realated problems is a massive challenege. But am ready to break it.
+
 
 
 
