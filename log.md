@@ -293,7 +293,7 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Absolute Element Sums on HackerRank. Can you complete the challenge? (https://hr.gs/baebed)
 
-**Thoughts**: Solving DSA related problem is a massive challenege. But am ready to break it.
+**Thoughts**: Solving DSA related problem is a massive challenge. But am ready to crack it.
 
 
 
