@@ -298,7 +298,7 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 ### Day 43: March 21, 2022
 
-**Today's Progress**: Success! Just solved King Richard's Knights on @HackerRank. Can you complete the challenge? (https://hr.gs/eecaae)
+**Today's Progress**: Success! Just solved King Richard's Knights on HackerRank. Can you complete the challenge? (https://hr.gs/eecaae)
 
 **Thoughts**: It's always hard to be consistent over DSA problems.
 
