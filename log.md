@@ -282,6 +282,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Thoughts**: It's ok only when you got to know Alien's Languages lol!
 
 
+### Day 41: March 19, 2022
+
+**Today's Progress**: Success! Just solved Making Candies on HackerRank. Can you complete the challenge? (https://hr.gs/aeedbe) 
+
+**Thoughts**: Was busy a lot to post this.
 
 
 
