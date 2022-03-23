@@ -302,3 +302,9 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Thoughts**: It's always hard to be consistent over DSA problems.
 
+
+### Day 44: March 22, 2022
+
+**Today's Progress**: Success! Just solved Similar Pair on HackerRank. Can you complete the challenge? (https://hr.gs/dbddde) 
+
+**Thoughts**: It's always hard to be consistent over DSA problems.
