@@ -315,3 +315,10 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Today's Progress**: Success! Just solved Computer Game on HackerRank. Can you complete the challenge? (https://hr.gs/eedefc)
 
 **Thoughts**: No need to hurry on DSA problems.
+
+
+### Day 46: March 24, 2022
+
+**Today's Progress**: Success! Just solved Savita And Friends on HackerRank. Can you complete the challenge? (https://hr.gs/fbaaad)
+
+**Thoughts**: When you're tuning "Save A Kiss by Jessie Ware" with DSA; no feelings can't be compared.
