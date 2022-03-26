@@ -324,7 +324,7 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Thoughts**: When you're tuning "Save A Kiss by Jessie Ware" with DSA; no feelings can't be compared. 
 
 
-### Day 46: March 25, 2022
+### Day 47: March 25, 2022
 
 **Today's Progress**: Success! Just solved Demanding Money on HackerRank. Can you complete the challenge? (https://hr.gs/f0f)
 
