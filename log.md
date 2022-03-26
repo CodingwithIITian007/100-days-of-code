@@ -328,4 +328,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Demanding Money on HackerRank. Can you complete the challenge? (https://hr.gs/f0f)
 
-**Thoughts**: Music enhances the super power of a programmer.
+**Thoughts**: Music enhances the super power of a programmer. 
+
+
+### Day 48: March 26, 2022
+
+**Today's Progress**: Success! Just solved  on HackerRank. Can you complete the challenge? (https://hr.gs/ddfbab)
+
+**Thoughts**: No Bakwaas Seedhi Code bass lol!
