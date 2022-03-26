@@ -333,6 +333,6 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 ### Day 48: March 26, 2022
 
-**Today's Progress**: Success! Just solved  on HackerRank. Can you complete the challenge? (https://hr.gs/ddfbab)
+**Today's Progress**: Success! Just solved Toll Cost Digits on HackerRank. Can you complete the challenge? (https://hr.gs/ddfbab)
 
 **Thoughts**: No Bakwaas Seedhi Code bass lol!
