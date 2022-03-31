@@ -336,3 +336,10 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Today's Progress**: Success! Just solved Toll Cost Digits on HackerRank. Can you complete the challenge? (https://hr.gs/ddfbab)
 
 **Thoughts**: No Bakwaas Seedhi Code bass lol!
+
+
+### Day 49: March 27, 2022
+
+**Today's Progress**: Success! Just solved Absolute Permutation on HackerRank. Can you complete the challenge? (https://hr.gs/eeccaa)
+
+**Thoughts**: It suits with Spotify Coding playlists, 3cheers !
