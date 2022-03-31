@@ -342,4 +342,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Absolute Permutation on HackerRank. Can you complete the challenge? (https://hr.gs/eeccaa)
 
-**Thoughts**: It suits with Spotify Coding playlists, 3cheers !
+**Thoughts**: It suits with Spotify Coding playlists, 3cheers ! 
+
+
+### Day 50: March 28, 2022
+
+**Today's Progress**: Success! Just solved Hackerland Radio Transmitters on @HackerRank. Can you complete the challenge? (https://hr.gs/bacbec)
+
+**Thoughts**: It's li'll bit late but programmers don't envy it. 
