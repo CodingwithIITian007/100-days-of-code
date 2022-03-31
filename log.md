@@ -365,3 +365,9 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Thoughts**: Life is incomplete without programming.
 
+
+### Day 53: March 31, 2022
+
+**Today's Progress**: Success! Just solved 3D Surface Area on HackerRank. Can you complete the challenge? (https://hr.gs/g4p3) 
+
+**Thoughts**: It's close to my core, love y'all coders.
