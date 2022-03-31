@@ -357,3 +357,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Today's Progress**: Success! Just solved Subset Component on HackerRank. Can you complete the challenge? (https://hr.gs/e0d)
 
 **Thoughts**: M getting now why cracking DSA stuffs are sooo hard!
+
+
+### Day 52: March 30, 2022
+
+**Today's Progress**: Success! Just solved Frog Maze on HackerRank. Can you complete the challenge? (https://hr.gs/5pm5)
+
+**Thoughts**: Life is incomplete without programming.
+
