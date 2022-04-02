@@ -371,3 +371,10 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Today's Progress**: Success! Just solved 3D Surface Area on HackerRank. Can you complete the challenge? (https://hr.gs/g4p3) 
 
 **Thoughts**: It's close to my core, love y'all coders.
+
+
+### Day 54: April 01, 2022
+
+**Today's Progress**: Success! Just solved Larry's Array on HackerRank. Can you complete the challenge? (https://hr.gs/dbaedb)
+
+**Thoughts**: Programming consumes your daily run time lol!
