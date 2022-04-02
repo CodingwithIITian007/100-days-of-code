@@ -378,3 +378,10 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Today's Progress**: Success! Just solved Larry's Array on HackerRank. Can you complete the challenge? (https://hr.gs/dbaedb)
 
 **Thoughts**: Programming consumes your daily run time lol!
+
+
+### Day 55: April 02, 2022
+
+**Today's Progress**: Success! Just solved Bear and Steady Gene on HackerRank. Can you complete the challenge? (https://hr.gs/dbaedb)
+
+**Thoughts**: Learning new cool DSA shorts always be on my toplist ! 
