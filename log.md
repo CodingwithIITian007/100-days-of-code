@@ -400,3 +400,10 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Thoughts**: Who said Javascript is hard ?
 
+
+### Day 58: April 05, 2022
+
+**Today's Progress**: Learn👉🏻 1.String Concatenation, 2.String Length & Retreving the number of characters, 3.Slicing & Extracting parts of a string, 6.Challenge changing case in text.
+
+**Thoughts**: It's really interesting to learn js.
+
