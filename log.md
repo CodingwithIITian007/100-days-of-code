@@ -356,7 +356,7 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Subset Component on HackerRank. Can you complete the challenge? (https://hr.gs/e0d)
 
-**Thoughts**: M getting now why cracking DSA stuffs are sooo hard!
+**Thoughts**: M getting now why cracking DSA stuffs are sooo hard! 
 
 
 ### Day 52: March 30, 2022
@@ -405,5 +405,12 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Learn👉🏻 1.String Concatenation, 2.String Length & Retreving the number of characters, 3.Slicing & Extracting parts of a string, 6.Challenge changing case in text.
 
-**Thoughts**: It's really interesting to learn js.
+**Thoughts**: It's really interesting to learn js. 
+
+
+### Day 59: April 06, 2022
+
+**Today's Progress**: Learn👉🏻 1.Basic Arithmetic & the Modulo operator in javascript, 2.Increment & Decrement expressions, 3.Creating & Calling Function, 4.The Karel Robot Challenge.
+
+**Thoughts**: Be a javascript in your life to live ad-free.
 
