@@ -393,3 +393,10 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Thoughts**: Learning new cool DSA shorts always be on my toplist ! 
 
+
+### Day 57: April 04, 2022
+
+**Today's Progress**: Learn👉🏻 1.Javascript Alerts, 2.Datatypes, 3.Javascript Variables, 4.Javascript Var exercises, 5.Naming & naming conventions for Javascript Var. 
+
+**Thoughts**: Who said Javascript is hard ?
+
