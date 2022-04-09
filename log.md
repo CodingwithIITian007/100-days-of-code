@@ -414,3 +414,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Thoughts**: Be a javascript in your life to live ad-free.
 
+
+### Day 60: April 07, 2022
+
+**Today's Progress**: Success! Just solved Self Balancing Tree on HackerRank. Can you complete the challenge? (https://hr.gs/baafdb)
+
+**Thoughts**: DSA not only balances trees but also human life as well lol!
+
+
