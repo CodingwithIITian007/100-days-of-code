@@ -426,6 +426,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Largest Rectangle on HackerRank. Can you complete the challenge? (https://hr.gs/caeece)
 
-**Thoughts**: DSA is becoming a significant part of every programmmer's life!
+**Thoughts**: DSA is becoming a significant part of every programmmer's life! 
 
 
+### Day 62: April 09, 2022
+
+**Today's Progress**: Success! Just solved Square-Ten Tree on HackerRank. Can you complete the challenge? (https://hr.gs/ccfbdd0
+
+**Thoughts**: DSA is all about your calmness; the more patience you've, the harder you'll crack.
