@@ -431,6 +431,6 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 ### Day 62: April 09, 2022
 
-**Today's Progress**: Success! Just solved Square-Ten Tree on HackerRank. Can you complete the challenge? (https://hr.gs/ccfbdd0
+**Today's Progress**: Success! Just solved Square-Ten Tree on HackerRank. Can you complete the challenge? (https://hr.gs/ccfbdd)
 
 **Thoughts**: DSA is all about your calmness; the more patience you've, the harder you'll crack.
