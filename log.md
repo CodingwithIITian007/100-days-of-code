@@ -419,6 +419,13 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Success! Just solved Self Balancing Tree on HackerRank. Can you complete the challenge? (https://hr.gs/baafdb)
 
-**Thoughts**: DSA not only balances trees but also human life as well lol!
+**Thoughts**: DSA not only balances trees but also human life as well lol! 
+
+
+### Day 61: April 08, 2022
+
+**Today's Progress**: Success! Just solved Largest Rectangle on HackerRank. Can you complete the challenge? (https://hr.gs/caeece)
+
+**Thoughts**: DSA is becoming a significant part of every programmmer's life!
 
 
