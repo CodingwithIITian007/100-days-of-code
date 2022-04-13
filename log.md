@@ -440,4 +440,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Just earned the Bronze Badge for Sql on HackerRank! (https://www.hackerrank.com/KanadtheIITian?badge=sql&stars=1&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: Just heading up some different lol!
+**Thoughts**: Just heading up something different lol!
+
+
+### Day 64: April 11, 2022
+
+**Today's Progress**: Just earned my 2nd star on the Sql Badge on HackerRank! (https://www.hackerrank.com/KanadtheIITian?badge=sql&stars=2&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: It looks amazing & interesting as well as.
