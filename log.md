@@ -455,3 +455,11 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Today's Progress**: Just earned the Silver Badge for Sql on HackerRank! (https://www.hackerrank.com/KanadtheIITian?badge=sql&stars=3&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin) 
 
 **Thoughts**: Although it's not needed to write much line(s) of code in MySQL, there is different significance of each line.
+
+
+### Day 66: April 13, 2022
+
+**Today's Progress**: Just earned my 4th star on the Sql Badge on HackerRank! (https://www.hackerrank.com/KanadtheIITian?badge=sql&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin) 
+
+**Thoughts**: Codinglife will not be completed without MySQL lol!
+
