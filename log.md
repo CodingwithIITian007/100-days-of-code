@@ -434,3 +434,10 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 **Today's Progress**: Success! Just solved Square-Ten Tree on HackerRank. Can you complete the challenge? (https://hr.gs/ccfbdd)
 
 **Thoughts**: DSA is all about your calmness; the more patience you've, the harder you'll crack.
+
+
+### Day 63: April 10, 2022
+
+**Today's Progress**: Just earned the Bronze Badge for Sql on HackerRank! (https://www.hackerrank.com/KanadtheIITian?badge=sql&stars=1&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: Just heading up some different lol!
