@@ -461,5 +461,12 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Just earned my 4th star on the Sql Badge on HackerRank! (https://www.hackerrank.com/KanadtheIITian?badge=sql&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin) 
 
-**Thoughts**: Codinglife will not be completed without MySQL lol!
+**Thoughts**: Codinglife will not be completed without MySQL lol! 
+
+
+### Day 67: April 14, 2022
+
+**Today's Progress**: Just earned the Gold Badge for Sql on HackerRank! (https://www.hackerrank.com/KanadtheIITian?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+
+**Thoughts**: Yaa, MySQL really makes the completion of the significance "Coding is fun".
 
