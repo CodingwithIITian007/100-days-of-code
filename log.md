@@ -468,5 +468,35 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
 
 **Today's Progress**: Just earned the Gold Badge for Sql on HackerRank! (https://www.hackerrank.com/KanadtheIITian?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 
-**Thoughts**: Yaa, MySQL really makes the completion of the significance "Coding is fun".
+**Thoughts**: Yaa, MySQL really makes the completion of the significance "Coding is fun". 
+
+
+### Day 68: April 15, 2022
+
+**Today's Progress**: function getMilk(money) {
+  console.log("leaveHouse");
+  console.log("moveRight");
+  console.log("moveRight");
+  console.log("moveUp");
+  console.log("moveUp");
+  console.log("moveUp");
+  console.log("moveUp");
+  console.log("moveRight");
+  console.log("moveRight"); 
+
+  var numberOfBottles = Math.floor(money / 1.5);
+  
+  console.log("buy " + numberOfBottles + " bottles of milk");
+  console.log("moveLeft");
+  console.log("moveLeft");
+  console.log("moveDown");
+  console.log("moveDown");
+  console.log("moveDown");
+  console.log("moveDown");
+  console.log("moveLeft");
+  console.log("moveLeft");
+  console.log("enterHouse"); 
+}
+
+getMilk(5); //$1.5 5/1.5 = 3 bottles
 
