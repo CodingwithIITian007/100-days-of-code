@@ -498,5 +498,20 @@ Just earned my 4th star on the Problem Solving Badge on HackerRank! (https://www
   console.log("enterHouse"); 
 }
 
-getMilk(5); //$1.5 5/1.5 = 3 bottles
+getMilk(5); //$1.5 5/1.5 = 3 bottles 
+
+//
+
+function lifeInWeeks(age) {
+  var yearsRemaining = 90 - age; 
+  var days = yearsRemaining * 365; 
+  var weeks = yearsRemaining * 52;
+  var months = yearsRemaining * 12;
+
+  console.log("You have " + days + " days, " + weeks + " weeks, and " + months + " months left"); 
+
+  
+}
+
+lifeInWeeks(22);
 
