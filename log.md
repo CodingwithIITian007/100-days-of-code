@@ -554,3 +554,10 @@ function isLeap(year) {
 
 **Thoughts**: Coding tips from Angela Yu on javascript30 makes the way of learning more richer.
 
+
+### Day 71: April 18, 2022
+
+**Today's Progress**: Learn 1.Collections Working with Javascript Arrays, 2.Adding Elements & Intermediate Array Techniques, 3.Control Statements While Loop etc.
+
+**Thoughts**: Learning javascript seems nothing lol!
+
