@@ -535,4 +535,8 @@ function isLeap(year) {
   }
   
  } 
+ 
+ Learn 1.Parameter & Arguments, 2. Life in Weeks Solutions, 3.Outputs & Return Values, 4.Challenge Create a BMI Calculator on #javascript30.
+ 
+ **Thoughts**: Revisiting javascript30 is always special to be felt as a programmer.
 
