@@ -547,3 +547,10 @@ function isLeap(year) {
 
 **Thoughts**: Revision 2022 of javascript30 is ongoing.
 
+
+### Day 70: April 17, 2022
+
+**Today's Progress**: Learn 1.Comparators & Equality, 2.Combining Comparators, 3.Introducing the Leap Year Code Challenge & etc.
+
+**Thoughts**: Coding tips from Angela Yu on javascript30 makes the way of learning more richer.
+
