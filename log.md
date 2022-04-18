@@ -538,5 +538,12 @@ function isLeap(year) {
  
  Learn 1.Parameter & Arguments, 2. Life in Weeks Solutions, 3.Outputs & Return Values, 4.Challenge Create a BMI Calculator on #javascript30.
  
- **Thoughts**: Revisiting javascript30 is always special to be felt as a programmer.
+ **Thoughts**: Revisiting javascript30 is always special to be felt as a programmer. 
+ 
+ 
+### Day 69: April 16, 2022
+
+**Today's Progress**: Learn 1.Attend Code Spaces & Hackathons, 2.Random Number Generation In #javascript30, 3.Control Statements Using If-Else Conditionals & Logic.
+
+**Thoughts**: Revision 2022 of javascript30 is ongoing.
 
