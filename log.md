@@ -559,5 +559,10 @@ function isLeap(year) {
 
 **Today's Progress**: Learn 1.Collections Working with Javascript Arrays, 2.Adding Elements & Intermediate Array Techniques, 3.Control Statements While Loop etc.
 
-**Thoughts**: Learning javascript seems nothing lol!
+**Thoughts**: Learning javascript seems nothing lol! 
+
+
+### Day 72: April 19, 2022
+
+**Today's Progress**: Learn 1.Fibonacci Code Challenge, 2.Some important coding stuffs regarding HTML & js, 3.
 
