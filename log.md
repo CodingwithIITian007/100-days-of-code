@@ -575,3 +575,9 @@ function isLeap(year) {
 
 **Thoughts**: Some re-vision🚀 on DSA.
 
+
+### Day 74: April 21, 2022 
+
+**Today's Progress**: Success! Just solved Superman Celebrates Diwali on HackerRank. Can you complete the challenge? (https://hr.gs/abcaea)
+
+**Thoughts**: Revisiting the DSA makes a programmer more capable of finding the value-providing real life solution.
