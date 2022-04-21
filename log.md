@@ -566,5 +566,12 @@ function isLeap(year) {
 
 **Today's Progress**: Learn 1.Fibonacci Code Challenge, 2.Some important coding stuffs regarding HTML & js, 3.Some Problems based on Numpy (https://hr.gs/ecfebd), 4.Regex Substitution (https://hr.gs/aaaada) etc.
 
-**Thoughts**: Done some revision on python projects and other stuffs!
+**Thoughts**: Done some revision on python projects and other stuffs! 
+
+
+### Day 73: April 20, 2022 
+
+**Today's Progress**: Success! Just solved Black and White Tree on HackerRank. Can you complete the challenge? (https://hr.gs/fcz)
+
+**Thoughts**: Some re-vision🚀 on DSA.
 
