@@ -564,5 +564,7 @@ function isLeap(year) {
 
 ### Day 72: April 19, 2022
 
-**Today's Progress**: Learn 1.Fibonacci Code Challenge, 2.Some important coding stuffs regarding HTML & js, 3.
+**Today's Progress**: Learn 1.Fibonacci Code Challenge, 2.Some important coding stuffs regarding HTML & js, 3.Some Problems based on Numpy (https://hr.gs/ecfebd), 4.Regex Substitution (https://hr.gs/aaaada) etc.
+
+**Thoughts**: Done some revision on python projects and other stuffs!
 
