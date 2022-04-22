@@ -580,4 +580,11 @@ function isLeap(year) {
 
 **Today's Progress**: Success! Just solved Superman Celebrates Diwali on HackerRank. Can you complete the challenge? (https://hr.gs/abcaea)
 
-**Thoughts**: Revisiting the DSA makes a programmer more capable of finding the value-providing real life solution.
+**Thoughts**: Revisiting the DSA makes a programmer more capable of finding the value-providing real life solution. 
+
+
+### Day 75: April 22, 2022
+
+**Today's Progress**: Success! Just solved Tara's Beautiful Permutations (https://hr.gs/abccaf) & Decibinary Numbers (https://hr.gs/1y3f) on HackerRank. 
+
+**Thoughts**: Just do programming without a second thought lol!
