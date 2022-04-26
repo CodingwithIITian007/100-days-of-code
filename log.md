@@ -603,3 +603,10 @@ function isLeap(year) {
 
 **Thoughts**: Practising Regex seems cool & interesting!
 
+
+### Day 78: April 25, 2022
+
+**Today's Progress**: Success! Just solved Array Manipulation on @HackerRank. Can you complete the challenge? (https://hr.gs/deabde)
+
+**Thoughts**: Again on the DSA track lol!
+
