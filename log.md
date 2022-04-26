@@ -595,3 +595,11 @@ function isLeap(year) {
 **Today's Progress**: Success! Just solved Building a Smart IDE: Programming Language Detection (https://hr.gs/f97) & Detecting Valid Latitude and Longitude Pairs (https://hr.gs/cefdca) on HackerRank.
 
 **Thoughts**: Let's do a quick start of the week with something new try!
+
+
+### Day 77: April 24, 2022
+
+**Today's Progress**: Success! Just solved Detecting Valid Latitude & Longitude Pairs (https://hr.gs/cefdca) & Detect the Domain Name (https://hr.gs/faecfd) on HackerRank.
+
+**Thoughts**: Practising Regrex seems cool & interesting!
+
