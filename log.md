@@ -601,5 +601,5 @@ function isLeap(year) {
 
 **Today's Progress**: Success! Just solved Detecting Valid Latitude & Longitude Pairs (https://hr.gs/cefdca) & Detect the Domain Name (https://hr.gs/faecfd) on HackerRank.
 
-**Thoughts**: Practising Regrex seems cool & interesting!
+**Thoughts**: Practising Regex seems cool & interesting!
 
