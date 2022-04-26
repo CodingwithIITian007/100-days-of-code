@@ -587,4 +587,11 @@ function isLeap(year) {
 
 **Today's Progress**: Success! Just solved Tara's Beautiful Permutations (https://hr.gs/abccaf) & Decibinary Numbers (https://hr.gs/1y3f) on HackerRank. 
 
-**Thoughts**: Just do programming without a second thought lol!
+**Thoughts**: Just do programming without a second thought lol! 
+
+
+### Day 76: April 23, 2022
+
+**Today's Progress**: Success! Just solved Building a Smart IDE: Programming Language Detection (https://hr.gs/f97) & Detecting Valid Latitude and Longitude Pairs (https://hr.gs/cefdca) on HackerRank.
+
+**Thoughts**: Let's do a quick start of the week with something new try!
