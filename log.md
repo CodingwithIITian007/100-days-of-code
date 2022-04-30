@@ -640,3 +640,12 @@ function isLeap(year) {
 **Thoughts**: “I'm not a great programmer; I'm just a good programmer with great habits.” 
 ― Kent Beck
 
+
+### Day 83: April 30, 2022
+
+**Today's Progress**: Success! Just solved Jeanie's Route on HackerRank. Can you complete the challenge? (https://hr.gs/bfebba)
+
+**Thoughts**: “Truth can only be found in one place: the code.” 
+― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+
+
