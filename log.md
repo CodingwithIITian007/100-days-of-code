@@ -624,3 +624,11 @@ function isLeap(year) {
 
 **Thoughts**: “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
+
+### Day 81: April 28, 2022 
+
+**Today's Progress**: Success! Just solved Queries with Fixed Length on HackerRank. Can you complete the challenge? (https://hr.gs/eu7)
+
+**Thoughts**: “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” 
+― John Woods
+
