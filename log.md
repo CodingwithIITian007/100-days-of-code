@@ -633,7 +633,7 @@ function isLeap(year) {
 ― Linus Torvalds
 
 
-### Day 81: April 29, 2022
+### Day 82: April 29, 2022
 
 **Today's Progress**: Success! Just solved Jack goes to Rapture  on HackerRank. Can you complete the challenge? (https://hr.gs/ddeeec)
 
