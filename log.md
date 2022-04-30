@@ -615,5 +615,12 @@ function isLeap(year) {
 
 **Today's Progress**: Success! Just solved Kitty's Calculations on a Tree on HackerRank. Can you complete the challenge? (https://hr.gs/3a32)
 
-**Thoughts**: Re-Viewing DSA doesn't make me monotonous.
+**Thoughts**: Re-Viewing DSA doesn't make me monotonous. 
+
+
+### Day 80: April 27, 2022
+
+**Today's Progress**: Success! Just solved Truck Tour on HackerRank. Can you complete the challenge? (https://hr.gs/bdfaff)
+
+**Thoughts**: “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
