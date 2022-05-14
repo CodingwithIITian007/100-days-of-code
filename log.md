@@ -649,3 +649,12 @@ function isLeap(year) {
 ― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
 
 
+### Day 84: May 01, 2022
+
+**Today's Progress**: Success! Just solved Sherlock and Anagrams on HackerRank. Can you complete the challenge? (https://hr.gs/ec3)
+
+**Thoughts**: “It is not enough for code to work.” 
+― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+
+
+
