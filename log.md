@@ -657,4 +657,9 @@ function isLeap(year) {
 ― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
 
 
+### Day 85: May 02, 2022
 
+**Today's Progress**: Success! Just solved Almost Sorted on HackerRank. Can you complete the challenge? (https://hr.gs/becbeb)
+
+**Thoughts**: ".....Good. We need better programmers.” 
+― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
