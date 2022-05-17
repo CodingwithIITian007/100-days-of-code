@@ -749,3 +749,10 @@ function isLeap(year) {
 **Thoughts**: Generally, the craft of programming is the factoring of a set of requirements into a a set of functions and data structures.
 
 
+### Day 98: May 15, 2022
+
+**Today's Progress**: Success! Just solved Red John is Back on HackerRank. Can you complete the challenge? (https://hr.gs/e58)
+
+**Thoughts**: "The best error message is the one that never shows up."
+
+
