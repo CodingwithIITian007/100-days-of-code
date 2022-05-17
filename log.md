@@ -676,4 +676,11 @@ function isLeap(year) {
 
 **Today's Progress**: Success! Just solved Knapsack on HackerRank. Can you complete the challenge? (https://hr.gs/en8)
 
-**Thoughts**: It is the programmers that make the language appear simple!
+**Thoughts**: It is the programmers that make the language appear simple! 
+
+
+### Day 88: May 05, 2022
+
+**Today's Progress**: Success! Just solved Sherlock and Cost on HackerRank. Can you complete the challenge? (https://hr.gs/emf)
+
+**Thoughts**: “Don’t Use a Comment When You Can Use a Function or a Variable”. 
