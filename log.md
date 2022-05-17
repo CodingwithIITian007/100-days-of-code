@@ -718,4 +718,13 @@ function isLeap(year) {
 
 **Today's Progress**: Success! Just solved Sam and substrings on HackerRank. Can you complete the challenge? (https://hr.gs/accada) 
 
+**Thoughts**: “Redundant comments are just places to collect lies and misinformation.” 
+
+
+### Day 94: May 11, 2022
+
+**Today's Progress**: Success! Just solved Highest Value Palindrome on HackerRank. Can you complete the challenge? (https://hr.gs/badfbb)
+
+**Thoughts**: “Whatever else a TODO might be, it is not an excuse to leave bad code in the system.”
+
 
