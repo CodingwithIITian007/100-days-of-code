@@ -663,3 +663,10 @@ function isLeap(year) {
 
 **Thoughts**: ".....Good. We need better programmers.” 
 ― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+
+
+### Day 86: May 03, 2022
+
+**Today's Progress**: Success! Just solved The Maximum Subarray on HackerRank. Can you complete the challenge? (https://hr.gs/dsh) 
+
+**Thoughts**: Revisiting DSA stuffs always good for a new beginning.
