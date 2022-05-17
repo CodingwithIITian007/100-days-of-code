@@ -753,6 +753,20 @@ function isLeap(year) {
 
 **Today's Progress**: Success! Just solved Red John is Back on HackerRank. Can you complete the challenge? (https://hr.gs/e58)
 
-**Thoughts**: "The best error message is the one that never shows up."
+**Thoughts**: "The best error message is the one that never shows up." 
+
+
+### Day 99: May 16, 2022
+
+**Today's Progress**: Success! Just solved Pairs on HackerRank. Can you complete the challenge? (https://hr.gs/e9t)
+
+**Thoughts**: First, solve the problem. Then, write the code. 
+
+
+### Day 100: May 17, 2022
+
+**Today's Progress**: Success! Just solved Permutation game on HackerRank. Can you complete the challenge? (https://hr.gs/ceddbf)
+
+**Thoughts**: “I’m not a great programmer; I’m just a good programmer with great habits.”
 
 
