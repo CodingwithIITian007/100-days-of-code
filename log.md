@@ -684,3 +684,10 @@ function isLeap(year) {
 **Today's Progress**: Success! Just solved Sherlock and Cost on HackerRank. Can you complete the challenge? (https://hr.gs/emf)
 
 **Thoughts**: “Don’t Use a Comment When You Can Use a Function or a Variable”. 
+
+
+### Day 89: May 06, 2022
+
+**Today's progress**: Success! Just solved Lego Blocks on @HackerRank. Can you complete the challenge? (https://hr.gs/e6d)
+
+**Thoughts**: “Programmers must avoid leaving false clues that obscure the meaning of code.”
