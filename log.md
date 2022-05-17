@@ -709,4 +709,13 @@ function isLeap(year) {
 
 ### Day 92: May 09, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Success! Just solved Lily's Homework on HackerRank. Can you complete the challenge? (https://hr.gs/1n3r)
+
+**Thoughts**: “Of course bad code can be cleaned up. But it’s very expensive.” 
+
+
+### Day 93: May 10, 2022
+
+**Today's Progress**: Success! Just solved Sam and substrings on HackerRank. Can you complete the challenge? (https://hr.gs/accada) 
+
+
