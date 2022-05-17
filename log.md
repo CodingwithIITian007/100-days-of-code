@@ -688,6 +688,25 @@ function isLeap(year) {
 
 ### Day 89: May 06, 2022
 
-**Today's progress**: Success! Just solved Lego Blocks on @HackerRank. Can you complete the challenge? (https://hr.gs/e6d)
+**Today's progress**: Success! Just solved Lego Blocks on HackerRank. Can you complete the challenge? (https://hr.gs/e6d)
 
-**Thoughts**: “Programmers must avoid leaving false clues that obscure the meaning of code.”
+**Thoughts**: “Programmers must avoid leaving false clues that obscure the meaning of code.” 
+
+
+### Day 90: May 07, 2022
+
+**Today's Progress**: Success! Just solved Common Child on HackerRank. Can you complete the challenge? (https://hr.gs/acedcc) 
+
+**Thoughts**: “Honesty in small things is not a small thing.” 
+
+
+### Day 91: May 08, 2022
+
+**Today's Progress**: Success! Just solved The Coin Change Problem on HackerRank. Can you complete the challenge? (https://hr.gs/bedfcc)
+
+**Thoughts**: “When you see commented-out code, delete it!”. 
+
+
+### Day 92: May 09, 2022
+
+**Today's Progress**: 
