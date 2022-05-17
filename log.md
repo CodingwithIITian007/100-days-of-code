@@ -670,3 +670,10 @@ function isLeap(year) {
 **Today's Progress**: Success! Just solved The Maximum Subarray on HackerRank. Can you complete the challenge? (https://hr.gs/dsh) 
 
 **Thoughts**: Revisiting DSA stuffs always good for a new beginning.
+
+
+### Day 87: May 04, 2022
+
+**Today's Progress**: Success! Just solved Knapsack on HackerRank. Can you complete the challenge? (https://hr.gs/en8)
+
+**Thoughts**: It is the programmers that make the language appear simple!
