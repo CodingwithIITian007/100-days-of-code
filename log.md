@@ -728,3 +728,24 @@ function isLeap(year) {
 **Thoughts**: “Whatever else a TODO might be, it is not an excuse to leave bad code in the system.”
 
 
+### Day 95: May 12, 2022
+
+**Today's Progress**: Success! Just solved Stock Maximize on HackerRank. Can you complete the challenge? (https://hr.gs/aadffa)
+
+**Thoughts**: Good programmers worry about data structures and their relationships.
+
+
+### Day 96: May 13, 2022
+
+**Today's Progress**: Success! Just solved Fraudulent Activity Notifications on HackerRank. Can you complete the challenge? (https://hr.gs/cfeefc)
+
+**Thoughts**: It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+
+
+### Day 97: May 14, 2022
+
+**Today's Progress**: Success! Just solved Maximum Palindromes on HackerRank. Can you complete the challenge? (https://hr.gs/mkdo)
+
+**Thoughts**: Generally, the craft of programming is the factoring of a set of requirements into a a set of functions and data structures.
+
+
